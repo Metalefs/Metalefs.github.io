@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Metalefs/Metalefs.github.io/issues"
   },
-  "homepage": "https://github.com/Metalefs/",
+  "homepage": "https://metalefs.github.io/",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
