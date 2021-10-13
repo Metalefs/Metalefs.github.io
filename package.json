@@ -1,0 +1,24 @@
+{
+  "name": "metalefs.github.io",
+  "version": "1.0.0",
+  "description": "Portifólio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metalefs/Metalefs.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metalefs/Metalefs.github.io/issues"
+  },
+  "homepage": "https://github.com/Metalefs/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
