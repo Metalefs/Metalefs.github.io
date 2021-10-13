@@ -109,10 +109,7 @@ a.dotted-link {
         margin-right: 30px;
     }
     .profile-content {
-        justify-content: center;
-        display: flex;
-        align-items: center;
-        width: 100%;
+        
         .name {
             color: darken($color, 20%);
             font-size: 38px;
@@ -155,7 +152,7 @@ a.dotted-link {
     margin-bottom: 30px;
     
     .section-inner {
-        // background: #fff;
+        background: #fff;
         padding: 30px;
     }
     .heading {
